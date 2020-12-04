@@ -1,0 +1,41 @@
+*{
+    font-family: 'Roboto',
+    sans-serif;
+
+}
+.mt-10p{
+    margin-top: 10px;
+}
+.ml-10p{
+    margin-left: 10px;
+}
+.mb-10p{
+    margin-bottom: 10px;
+}
+.mr-20p{
+    margin-right: 20px;
+}
+.mt-20p{
+    margin-top: 20px;
+}
+.ml-20p{
+    margin-left: 20px;
+}
+.mb-20p{
+    margin-bottom: 20px;
+}
+.mr-20p{
+    margin-right: 20px;
+}
+.abs{
+     transform: rotate(210deg);
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
